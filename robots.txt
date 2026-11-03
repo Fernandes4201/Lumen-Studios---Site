@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lumenstudios.lumenstudios.workers.dev/sitemap.xml
+Sitemap: https://lumen-studios.vitorfernandesb.workers.dev/sitemap.xml
