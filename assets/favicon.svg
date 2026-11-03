@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="20" y1="18" x2="348" y2="418">
+      <stop offset="0" stop-color="#1f4ae0"/>
+      <stop offset="1" stop-color="#23d0e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#060c1c"/>
+  <!-- Ícone oficial da Lumen (monitor com </>) redesenhado em vetor -->
+  <g transform="translate(10.85 6.93) scale(.115)">
+    <path fill="url(#g)" d="M20 18H142V46H76V322H348V352Q348 362 338 362H52Q20 362 20 330Z"/>
+    <path fill="none" stroke="url(#g)" stroke-width="18" d="M160 100H318Q340 100 340 122V322"/>
+    <g fill="none" stroke="url(#g)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M165 192 137 217l28 25"/>
+      <path d="M214 180 192 254"/>
+      <path d="m240 192 28 25-28 25"/>
+    </g>
+    <rect x="76" y="398" width="212" height="20" rx="10" fill="url(#g)"/>
+  </g>
+</svg>
