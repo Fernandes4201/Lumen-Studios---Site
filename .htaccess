@@ -1,0 +1,2 @@
+# Página de erro personalizada
+ErrorDocument 404 /404.html
